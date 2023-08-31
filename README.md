@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Putri Zulfiaturrizki</h1>
-<h3 align="center">I’m interested in Machine Learning and AI Engineer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=putrizulfi&label=Profile%20views&color=0e75b6&style=flat" alt="putrizulfi" /> </p>
 
