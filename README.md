@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=putrizulfi&label=Profile%20views&color=0e75b6&style=flat" alt="putrizulfi" /> </p>
 
-- 🌱 I’m currently learning **Informatics Engineering**
+- 🌱 I’m Fresh Graduate in **Informatics Engineering**
 
 - 📫 How to reach me **putrizulfi17@gmail.com**
 
